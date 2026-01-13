@@ -25,4 +25,23 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "__6jQkPDREfCNE4z_w6SQSA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_IQPqoPCaEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_IQPqoPCaEfCNE4z_w6SQSA - Producto",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
