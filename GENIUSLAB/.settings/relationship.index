@@ -1,5 +1,62 @@
 [ {
   "baseItem" : {
+    "id" : "_2H6iUPFUEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_m4HJMPEFEfCQr_HVpvzUXQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_m4HJMPEFEfCQr_HVpvzUXQ - Sub_Grupo_Producto",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_3nhMgPFXEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_g5L9APCfEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_g5L9APCfEfCNE4z_w6SQSA - Color",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_N-AYQPFWEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DhQwYPEFEfCQr_HVpvzUXQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DhQwYPEFEfCQr_HVpvzUXQ - Modelo",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
     "version" : "0.1",
     "type" : "job"
@@ -27,6 +84,44 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_SLvukPFXEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kn4BYPEEEfCQr_HVpvzUXQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kn4BYPEEEfCQr_HVpvzUXQ - Marca",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Yi_LMPFcEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tjb-4PCbEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tjb-4PCbEfCNE4z_w6SQSA - Detalle_Factura",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "__6jQkPDREfCNE4z_w6SQSA",
     "version" : "0.1",
     "type" : "job"
@@ -41,6 +136,101 @@
     "type" : "property"
   }, {
     "id" : "_IQPqoPCaEfCNE4z_w6SQSA - Producto",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__pprYPFhEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ZIZEwPCgEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ZIZEwPCgEfCNE4z_w6SQSA - Factura",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_iAu-YPFkEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PKR3YPEEEfCQr_HVpvzUXQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PKR3YPEEEfCQr_HVpvzUXQ - local",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_iOZygPFaEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zFkAIPCaEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zFkAIPCaEfCNE4z_w6SQSA - Cliente",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_isRT4PFSEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6M-gAPCgEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6M-gAPCgEfCNE4z_w6SQSA - Grupo_producto",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kcWT8PFeEfCCifADGUbOyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M_vNsPCcEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M_vNsPCcEfCNE4z_w6SQSA - Devolucion",
     "version" : "Latest",
     "type" : "schema"
   } ]
