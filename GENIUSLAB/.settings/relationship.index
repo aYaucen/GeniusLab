@@ -160,6 +160,25 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_d8_sEPF4EfC9Zu2TzJQ--w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_C-KN4PEGEfCQr_HVpvzUXQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_C-KN4PEGEfCQr_HVpvzUXQ - Telefono",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_iAu-YPFkEfCCifADGUbOyQ",
     "version" : "0.1",
     "type" : "job"
@@ -231,6 +250,25 @@
     "type" : "property"
   }, {
     "id" : "_M_vNsPCcEfCNE4z_w6SQSA - Devolucion",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_nLN5sPF5EfC9Zu2TzJQ--w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6diY0PDSEfCNE4z_w6SQSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_g7ztYPEGEfCQr_HVpvzUXQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_g7ztYPEGEfCQr_HVpvzUXQ - Ubicacion_geografica",
     "version" : "Latest",
     "type" : "schema"
   } ]
